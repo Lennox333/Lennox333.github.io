@@ -1,4 +1,5 @@
-#head {
+head {
+  font-size: large;
   align-items: center;
   justify-content: center;
 }
